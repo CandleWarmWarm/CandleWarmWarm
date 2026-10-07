@@ -1,13 +1,12 @@
 # Sun
 
 **Student at 42 Bangkok** | Bangkok, Thailand
-[GitHub](https://github.com/CandleWarmWarm) · [Email](mailto:sunsola21259@gmail.com)
+[GitHub](https://github.com/CandleWarmWarm) · [Email](sunsola21259@gmail.com)
 
 ---
 
 ## Summary
 Student at 42 Bangkok building a strong foundation in C and Python.
-Interested in mobile development, especially Flutter and Kotlin.
 
 ## Projects
 
