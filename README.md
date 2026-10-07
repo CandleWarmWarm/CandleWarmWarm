@@ -1,7 +1,7 @@
 # Sun
 
 **Student at 42 Bangkok** | Bangkok, Thailand
-[GitHub](https://github.com/CandleWarmWarm) · [Email](sunsola21259@gmail.com)
+[GitHub](https://github.com/CandleWarmWarm) · sunsola21259@gmail.com
 
 ---
 
