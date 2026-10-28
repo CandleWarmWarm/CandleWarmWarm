@@ -20,20 +20,7 @@ Student at 42 Bangkok building a strong foundation in C and Python.
 | [push_swap] | 🚧 In progress | C |
 | [Python Module] | 🚧 In progress | Python |
 
-## Education
 
-**Bachelor of Business Administration** (Japanese Business Program)
-Thai-Nichi Institute of Technology
-
-**42 Bangkok**, Common Core (Present)
-
-## Languages
-- Thai (Native)
-- English (Conversational)
-- Japanese (JLPT N3)
-
-## Skills
-C · Python · Git · Makefile · Linux · Shell
 
 
 
